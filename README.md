@@ -626,7 +626,7 @@ If this project helps you, please give it a ⭐️!
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Surya Prakash Subudhiray**
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue?style=flat-square&logo=python)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Workflow-green?style=flat-square&logo=graphql)
